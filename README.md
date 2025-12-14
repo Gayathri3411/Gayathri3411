@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayathri3411&label=Profile%20views&color=0e75b6&style=flat" alt="gayathri3411" /> </p>
 
-- I’m currently working [Beijing-Air-Quality-Dashboard](https://github.com/Gayathri3411/Beijing-Air-Quality-Dashboard)
+- I’m currently working [Enterprise-Retail-Intelligence-Dashboard](https://github.com/Gayathri3411/Enterprise-Retail-Intelligence-Dashboard)
 
 - I’m currently learning **Python (NUMPY, Pandas) ,SQL ,Advanced Excel (VLOOKUP, XLOOKUP, Pivot, Conditional Formatting), Power BI**
 
